@@ -145,5 +145,5 @@ MIT — free to use, modify, and share. Credit appreciated!
 
 ## Screenshots
 
-![Menu bar](screenshots/menu_bar.jpeg)
-![Before and after](screenshots/before_after.jpeg)
+![Menu bar](screenshots/menu_bar.jpg)
+![Before and after](screenshots/before_after.jpg)
