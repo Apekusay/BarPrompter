@@ -142,3 +142,8 @@ Found a bug or want to improve BarPrompter? Open an issue or submit a pull reque
 ## License
 
 MIT — free to use, modify, and share. Credit appreciated!
+
+## Screenshots
+
+![Menu bar](screenshots/menu_bar.jpeg)
+![Before and after](screenshots/before_after.jpeg)
